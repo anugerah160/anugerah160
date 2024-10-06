@@ -21,17 +21,10 @@ I use GitHub to:
 
 ### Tech Stack
 - **Languages**: JavaScript, Python, PHP
-- **Frameworks & Libraries**: React, Node.js, Express.js, TensorFlow
 - **Cloud Platforms**: Google Cloud Platform (GCP)
 - **Databases**: MySQL, Firebase
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Other**: HTML, CSS, SCSS
-
----
-
-### GitHub Statistics
-
-![Anugerah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugerah160&show_icons=true&theme=dark&count_private=true)
 
 ---
 
