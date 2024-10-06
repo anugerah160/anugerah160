@@ -31,13 +31,13 @@ I use GitHub to:
 
 ### GitHub Statistics
 
-![Anugerah's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true)
+![Anugerah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anugerah160&show_icons=true&theme=dark&count_private=true)
 
 ---
 
 ### My Top Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=dark)
 
 ---
 
