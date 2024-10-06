@@ -10,24 +10,6 @@ I use GitHub to:
 - ☁️ Learn and explore cloud technologies and AI implementations
 - 🤝 Collaborate with the amazing global developer community
 
----
-
-### What I'm Up To
-- 🚀 Expanding my knowledge in **cloud technologies** for backend and AI-driven applications
-- 📚 Continuously learning and earning certifications in **cloud computing**, **AI**, and **machine learning**
-- 💡 Improving my skills through hands-on practice in building web apps, APIs, and AI models
-
----
-
-### Tech Stack
-- **Languages**: JavaScript, Python, PHP
-- **Cloud Platforms**: Google Cloud Platform (GCP)
-- **Databases**: MySQL, Firebase
-- **DevOps**: Docker, Kubernetes, GitHub Actions
-- **Other**: HTML, CSS, SCSS
-
----
-
 ### My Top Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=dark)
@@ -39,8 +21,3 @@ I use GitHub to:
 - 🌐 [Web Portfolio](https://anugerah160.github.io)
 
 ---
-
-### Fun Facts About Me:
-- 🌱 I’m a lifelong learner, always exploring new tech like AI and cloud-based solutions.
-- 🌍 Based in Indonesia, I’m excited to work with developers from around the world!
-
