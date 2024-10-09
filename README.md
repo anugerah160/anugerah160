@@ -6,10 +6,10 @@ I'm a passionate **full-stack developer**, specializing in **web development**, 
 
 ### My Top Programming Languages
 ---
-<p align="left">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=react"/>
-  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anugerah160&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</p>
+<div align="center">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=react"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anugerah160&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
 
 ---
 ### My Contribution for last 30 days
