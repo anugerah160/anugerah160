@@ -4,17 +4,21 @@ I'm a passionate **full-stack developer**, specializing in **web development**, 
 
 ---
 
-### Why I'm Here
-I use GitHub to:
-- 📂 Share my code and projects
-- ☁️ Learn and explore cloud technologies and AI implementations
-- 🤝 Collaborate with the amazing global developer community
-
 ### My Top Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=dark)
+---
+<p align="left">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugerah160&layout=compact&theme=react"/>
+  <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anugerah160&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</p>
 
 ---
+### My Contribution for last 30 days
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=anugerah160&theme=react-dark)
+
+
+---
+
 
 ### Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/anugerahpm)
