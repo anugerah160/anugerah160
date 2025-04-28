@@ -67,12 +67,12 @@ I'm a passionate **full-stack developer**, specializing in **web development**, 
 
 ## 🚀 Skills
 
-- **Cloud Engineering (GCP, Kubernetes, Docker)**
-- **Machine Learning (kalau pakai Jupyter, Vertex AI)**
 - **Backend Development (Express, Django, Flask, Laravel)**
 - **Frontend Development (React, Bootstrap, Tailwind)**
+- **Cloud Engineering (GCP, Kubernetes, Docker)**
 - **CI/CD Automation (GitHub Actions, GitLab CI)**
-- **Networking Fundamentals (TCP/IP, DNS, Routing, Firewall)**
+- **Machine Learning (Jupyter, Vertex AI)**
+- **Computer Networking (TCP/IP, DNS, Routing, Firewall)**
 
 ---
 ### Stats
